@@ -1,0 +1,1 @@
+GET		/github/stats		controllers.Application.let_play_work(repos)
